@@ -6,8 +6,6 @@ import random
 import re
 import sys
 
-
-
 def countingSort(arr):
     result = [0 for _ in range(100)]
     for i in range(len(arr)):
